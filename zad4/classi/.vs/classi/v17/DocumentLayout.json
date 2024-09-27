@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{70436A89-F0B6-42C9-BD08-3F99F702E91F}|classi\\classi.vcxproj|C:\\SystemProgramm\\2Praktica 4zad\\zad4\\classi\\classi\\classi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{70436A89-F0B6-42C9-BD08-3F99F702E91F}|classi\\classi.vcxproj|solutionrelative:classi\\classi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70436A89-F0B6-42C9-BD08-3F99F702E91F}|classi\\classi.vcxproj|C:\\SystemProgramm\\2Praktica 4zad\\zad4\\classi\\classi\\Polynomial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70436A89-F0B6-42C9-BD08-3F99F702E91F}|classi\\classi.vcxproj|solutionrelative:classi\\Polynomial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70436A89-F0B6-42C9-BD08-3F99F702E91F}|classi\\classi.vcxproj|C:\\SystemProgramm\\2Praktica 4zad\\zad4\\classi\\classi\\Polynomial.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70436A89-F0B6-42C9-BD08-3F99F702E91F}|classi\\classi.vcxproj|solutionrelative:classi\\Polynomial.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Polynomial.h",
+              "DocumentMoniker": "C:\\SystemProgramm\\2Praktica 4zad\\zad4\\classi\\classi\\Polynomial.h",
+              "RelativeDocumentMoniker": "classi\\Polynomial.h",
+              "ToolTip": "C:\\SystemProgramm\\2Praktica 4zad\\zad4\\classi\\classi\\Polynomial.h",
+              "RelativeToolTip": "classi\\Polynomial.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-27T17:06:51.876Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Polynomial.cpp",
+              "DocumentMoniker": "C:\\SystemProgramm\\2Praktica 4zad\\zad4\\classi\\classi\\Polynomial.cpp",
+              "RelativeDocumentMoniker": "classi\\Polynomial.cpp",
+              "ToolTip": "C:\\SystemProgramm\\2Praktica 4zad\\zad4\\classi\\classi\\Polynomial.cpp",
+              "RelativeToolTip": "classi\\Polynomial.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-27T17:12:13.958Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +59,7 @@
               "RelativeDocumentMoniker": "classi\\classi.cpp",
               "ToolTip": "C:\\SystemProgramm\\2Praktica 4zad\\zad4\\classi\\classi\\classi.cpp",
               "RelativeToolTip": "classi\\classi.cpp",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAABEAAAAmAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-27T15:03:54.221Z",
               "EditorCaption": ""
