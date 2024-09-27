@@ -1,0 +1,47 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SystemProgramm\\2Praktica 4zad\\zad4\\classi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70436A89-F0B6-42C9-BD08-3F99F702E91F}|classi\\classi.vcxproj|C:\\SystemProgramm\\2Praktica 4zad\\zad4\\classi\\classi\\classi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70436A89-F0B6-42C9-BD08-3F99F702E91F}|classi\\classi.vcxproj|solutionrelative:classi\\classi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "classi.cpp",
+              "DocumentMoniker": "C:\\SystemProgramm\\2Praktica 4zad\\zad4\\classi\\classi\\classi.cpp",
+              "RelativeDocumentMoniker": "classi\\classi.cpp",
+              "ToolTip": "C:\\SystemProgramm\\2Praktica 4zad\\zad4\\classi\\classi\\classi.cpp",
+              "RelativeToolTip": "classi\\classi.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAABEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-27T15:03:54.221Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 306,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
